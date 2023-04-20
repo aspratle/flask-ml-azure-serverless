@@ -1,3 +1,7 @@
+## MY CHANGES ON THIS FORK 
+
+Making a change using azure's editor so I can commit it.  Cloud deployment is cruicial in data science -- Jelly 
+
 # flask-ml-azure-serverless
 Deploy Flask Machine Learning Application on Azure App Services
 
